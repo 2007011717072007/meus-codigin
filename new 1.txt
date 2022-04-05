@@ -1,0 +1,15 @@
+<!doctype html!>
+<html lang="pt=br">
+    <head>
+	<meta charset="utf-8">
+	<title> Listas Ordenadas </title>
+	 </head>
+	<body>
+<ol type="a">
+    <li> Primeiro item </li>
+	<li> Segundo item  </li>
+	<li> Terceiro item </li>
+	<li> Quarto item   </li>
+</o>
+</body>
+</html>
